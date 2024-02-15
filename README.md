@@ -87,8 +87,6 @@ My CV in RUSSIAN at [Google Docs](https://docs.google.com/document/d/1GIDOC3KgzB
 **Software Testing Introduction (RUS) by Svyatoslav Kulikov, epam**
 
 ## Examples of my work
-* Тестовое задание для компании HappyNumbers (USA): 
-[Чек-лист для тестирования 3 страниц: общей, страницы регистрации и авторизации + составление баг-репортов](https://docs.google.com/spreadsheets/d/1kcAE1fiw9sncH19nygKMFfA5rEpVakSdP3m2jeroAjI/edit#gid=0)
 
 * Test cases, bug-reports and work in Jira
   
